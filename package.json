@@ -1,0 +1,21 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "test-driven developed simon memory game, frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "TDD",
+    "JavaScript",
+    "Jest",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Thiago Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
