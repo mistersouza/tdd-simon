@@ -7,3 +7,10 @@
 ## What's the Quest?
 
 ▷ This game is the classic Simon Memory challenge, forged with TDD magic from the Code Institute's walkthrough. Your mission: repeat sequences of colors and sounds, each level a test of your memory mettle.
+
+## Features to Level Up Your Experience 
+    
+    - ● **TDD Mastery:** Crafted through the Code Institute's walkthrough, this game flexes its muscles with TDD wisdom.
+    - ● **Memory Training:** Challenge yourself with sequences that grow trickier by the level. Can you rise to the memory challenge?
+    - ● **Score Tracking:** Witness your scores soar as you conquer each sequence, leveling up like a memory hero.
+    - ● **Interactive Bliss:* : Lights, sounds, and interactive fun—all in this game to make your memory quest immersive.  
