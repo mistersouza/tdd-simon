@@ -20,3 +20,10 @@
 1. **Setup Quest:** Clone the repository and gather the tools needed for this epic journey.
 2. **Begin the Quest:** Fire up the game and embark on the memory adventure of a lifetime!
 3. **Testing Grounds:** Peek into our tests, run them, and witness the reliability of the game's codebase.
+
+## Tech Magic at Play
+
+- **JavaScript Sorcery:** The language behind the scenes, enchanting the game logic and features.
+- **Jest Spells:** Magic powered by Jest, ensuring the reliability and robustness of the game.
+- **Stylish CSS Charms:**  Crafted with finesse, weaving beautifully made styles.
+- **HTML Magic Tales:**Building engaging stories, making the game experience awesome "easy to reach" for everyone.
