@@ -59,4 +59,4 @@
 ▷ This project is enshrined under the MIT License, granting you the power to wield, modify, distribute, and enchant the world with it.
 
 ## Praises to the Wizards
-▷ A grand salute to the Code Institute, the wizards of open-source, and all resources that aided in the creation of this Simon Memory Game quest.
+▷ A massive shoutout to the Code Institute, the guiding wizards throughout this enchanting journey, and to all the resources that contributed to the creation of this epic Simon Memory Game quest.
