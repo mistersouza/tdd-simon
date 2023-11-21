@@ -10,10 +10,13 @@
 
 ## Features to Level Up Your Experience 
 
-- ● **TDD Mastery:** Crafted through the Code Institute's walkthrough, this game flexes its muscles with TDD wisdom.
-- ● **Memory Training:** Challenge yourself with sequences that grow trickier by the level. Can you rise to the memory challenge?
-- ● **Score Tracking:** Witness your scores soar as you conquer each sequence, leveling up like a memory hero.
-- ● **Interactive Bliss:** : Lights, sounds, and interactive fun—all in this game to make your memory quest immersive.
+● **TDD Mastery:** Crafted through the Code Institute's walkthrough, this game flexes its muscles with TDD wisdom.
+
+● **Memory Training:** Challenge yourself with sequences that grow trickier by the level. Can you rise to the memory challenge?
+
+● **Score Tracking:** Witness your scores soar as you conquer each sequence, leveling up like a memory hero.
+
+● **Interactive Bliss:** : Lights, sounds, and interactive fun—all in this game to make your memory quest immersive.
 
 ## Ready to Embark on the Adventure?
 
@@ -23,10 +26,13 @@
 
 ## Tech Magic at Play ✨
 
-- **JavaScript Sorcery:** The language behind the scenes, enchanting the game logic and features.
-- **🧚‍♀️ Jest Spells:** Magic powered by Jest, ensuring the reliability and robustness of the game.
-- **Stylish CSS Charms:** Crafted with finesse, weaving beautifully made styles.
-- **HTML Magic Tales:** Building engaging stories, making the game experience awesome "easy to reach" for everyone.
+● **JavaScript Sorcery:** The language behind the scenes, enchanting the game logic and features.
+
+● **🧚‍♀️ Jest Spells:** Magic powered by Jest, ensuring the reliability and robustness of the game.
+
+● **Stylish CSS Charms:** Crafted with finesse, weaving beautifully made styles.
+
+● **HTML Magic Tales:** Building engaging stories, making the game experience awesome "easy to reach" for everyone.
 
 ## Forging the Game with Test-Driven Magic 🧙‍♂️
 
